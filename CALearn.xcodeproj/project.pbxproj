@@ -15,6 +15,7 @@
 		E91A27EA1D364B1D009A809B /* CAType.swift in Sources */ = {isa = PBXBuildFile; fileRef = E91A27E91D364B1D009A809B /* CAType.swift */; };
 		E91A27ED1D364B85009A809B /* StoryboardHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = E91A27EC1D364B85009A809B /* StoryboardHelper.swift */; };
 		E91A27EF1D373828009A809B /* TDTranslationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E91A27EE1D373828009A809B /* TDTranslationViewController.swift */; };
+		E91A27F11D3BD273009A809B /* Base.swift in Sources */ = {isa = PBXBuildFile; fileRef = E91A27F01D3BD273009A809B /* Base.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		E91A27E91D364B1D009A809B /* CAType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CAType.swift; sourceTree = "<group>"; };
 		E91A27EC1D364B85009A809B /* StoryboardHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoryboardHelper.swift; sourceTree = "<group>"; };
 		E91A27EE1D373828009A809B /* TDTranslationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TDTranslationViewController.swift; sourceTree = "<group>"; };
+		E91A27F01D3BD273009A809B /* Base.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Base.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			isa = PBXGroup;
 			children = (
 				E91A27EC1D364B85009A809B /* StoryboardHelper.swift */,
+				E91A27F01D3BD273009A809B /* Base.swift */,
 			);
 			name = Base;
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E91A27F11D3BD273009A809B /* Base.swift in Sources */,
 				E91A27D71D3646F1009A809B /* MainViewController.swift in Sources */,
 				E91A27EA1D364B1D009A809B /* CAType.swift in Sources */,
 				E91A27ED1D364B85009A809B /* StoryboardHelper.swift in Sources */,
